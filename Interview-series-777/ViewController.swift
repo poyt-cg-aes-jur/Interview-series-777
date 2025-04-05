@@ -92,4 +92,5 @@ struct Result: Codable {
 
 //MARK: - If Time Permits
 // 1 - Debug the UI and fix issues (if any).
+// 2 - Test application performance using Instruments.
 
